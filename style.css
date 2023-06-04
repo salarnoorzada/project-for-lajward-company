@@ -169,17 +169,17 @@ input::placeholder {
   gap: 2rem;
 }
 .foot-name {
-  width: 15rem;
+  width: 20rem;
 }
 .footer-list {
   margin-left: 8rem;
-  width: 40rem;
+  width: 100%;
   display: flex;
   gap: 2rem;
   list-style: none;
   font-size: 14px;
 }
 .for-lajward {
-  margin-left: 25rem;
+  /* margin-left: 05rem; */
   font-size: 16px;
 }
