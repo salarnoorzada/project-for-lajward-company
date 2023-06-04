@@ -1,6 +1,6 @@
 let clock = document.querySelector("#clock");
 
-function updateClock() {
+const updateClock = () =>  {
   let now = new Date();
 
   let hours = now.getHours();

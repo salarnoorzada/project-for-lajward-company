@@ -34,9 +34,7 @@
   color: white;
 }
 .clock {
-  position: absolute;
   left: 70%;
-  /* top: 10%; */
   background-color: white;
   color: black;
   font-size: 28px;
